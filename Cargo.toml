@@ -1,0 +1,10 @@
+[package]
+name = "procio"
+version = "0.1.0"
+authors = ["Ted Mielczarek <ted@mielczarek.org>"]
+
+[dependencies]
+nix = "0.10.0"
+failure = "0.1.1"
+clap = "2.31.1"
+number_prefix = "0.2.7"
